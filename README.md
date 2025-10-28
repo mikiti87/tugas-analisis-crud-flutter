@@ -95,3 +95,5 @@ Kesimpulan
 Saya masih bingung dengan alurnya tapi sudah agak sedikit mengerti tentang bagaimana alurnya 
 Dan juga tentang error nya saya masih bingung kenapa bisa error padahal code dari ppt sudah saya salin dan itu benar harusnya sedangkan ketika saya mencopi kode dari teman saya yang itu notabenya sama dengan code yang ada di ppt itu berhasil tidak terjadi error sekian terimakasih
 
+[tugas crud flutter.docx](https://github.com/user-attachments/files/23176773/tugas.crud.flutter.docx)
+ini adalah file dokumentasi dan analisis saya 
